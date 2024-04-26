@@ -4,10 +4,14 @@ Extra installs
 
 
 npm install body-parser
+
 install cors
+
 install express
+
 install react-hook-form
-npm install mongodb
+
+npm install MongoDB
 
 
 
