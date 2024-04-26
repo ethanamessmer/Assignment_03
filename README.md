@@ -1,3 +1,22 @@
+
+
+Extra installs
+
+
+npm install body-parser
+install cors
+install express
+install react-hook-form
+npm install mongodb
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
